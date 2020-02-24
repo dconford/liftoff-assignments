@@ -50,13 +50,14 @@ I hope to give Admins access to an eventual data import tool (files come as mont
 a method to check for new file, and import it automatically.
 
 ### Technologies
-
-Java (Back End)
-JavaScript/Java (Front End)
-Springboot (Framework)
-Hibernate (Object to DB Mapping)
-MySQL/Postgres (DB)
-Thymeleaf/AngularJS (Front End Display) (TBD)
+<ul>
+    <li>Java (Back End)</li>
+    <li>JavaScript/Java (Front End)</li>
+    <li>Springboot (Framework)</li>
+    <li>Hibernate (Object to DB Mapping)</li>
+    <li>MySQL/Postgres (DB)</li>
+    <li>Thymeleaf/AngularJS (Front End Display) (TBD)</li>
+</ul>
 
 ### What I'll Have to Learn
 
