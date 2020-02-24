@@ -63,7 +63,7 @@ a method to check for new file, and import it automatically.
 
 REST API (How to) I want to implement REST API for better understanding separation of control, and demonstrating 
 programming abilities.<br>
-Server Side Controllers (API Provider): <br> For a better understanding of how to handle server side processing, cycle of operations.
+Server Side Controllers (API Provider): <br> For a better understanding of how to handle server side processing, cycle of operations.<br>
 Client Side Processing (API Consumer): <br> For a better understanding of how to handle client side. Decoupling should give me chance to 
 add/remove features on client side, without affecting the data or server side of operations. <br>Ideally, coding front ends
 in different languages, using same API endpoints should be another good demonstration of abilities.
