@@ -8,7 +8,7 @@ For this assignment, you will submit a high-level outline of your project. This 
 
 ### Overview
 The purpose of this project is to more easily view St. Louis City Police Department Crime Data.
-The current system generates a PDF of the monthly report, organized by Official City Neighborhood, in Alphbetical order. 
+The current system generates a PDF of the monthly report, organized by Official City Neighborhood, in Alphabetical order. 
 The City wide totals are on the last page of the document (pg. 91) so you have to scroll 
 or page down to the bottom to see the general information.
 
