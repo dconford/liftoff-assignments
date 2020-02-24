@@ -25,28 +25,28 @@ can eventually (not mvp) opt in to an email reminder when admin loads a new mont
 
 ### Features
 
-Home Page: Default view would include navigation bar (Home, Signup page, Admin page);
-           A View of latest months crime data displayed for (allCrime());
+Home Page: Default view would include navigation bar (Home, Signup page, Admin page);<br>
+           A View of latest months crime data displayed for (allCrime());<br>
               This would require page to communicate with DB, retrieve  and display info (READ).  
 
-Query Tool: A Drop down for altering the search to a single neighborhood (allCrimeByNeighborhood(neighborhoodId));
+Query Tool: A Drop down for altering the search to a single neighborhood (allCrimeByNeighborhood(neighborhoodId));<br>
               This would require additional controller methods beyond allCrime().
            
 
-Optional Registration: User who choose can register for an account, eventually to receive notifications.
-           This would include a signup page and a registration successful page.
+Optional Registration: User who choose can register for an account, eventually to receive notifications.<br>
+           This would include a signup page and a registration successful page.<br>
            This would include abilities to  signup (CREATE), remove user (DELETE), edit user (UPDATE) info to fulfill all other CRUD functions
 
 
 This should be enough to roll out a MVP.
 
 Future improvements:
-Advancements in data display and Query selection (more selections, better granular insight into details), these would be 
+Advancements in data display and Query selection (more selections, better granular insight into details),<br> these would be 
 iterative improvements and extensions of primary Feature (Data Query tool);
 
 Future features would be graphical representation of data, and mapping of data points to a map image.
 
-I hope to give Admins access to an eventual data import tool (files come as monthly csv). Import process should run as 
+I hope to give Admins access to an eventual data import tool (files come as monthly csv). <br>Import process should run as 
 a method to check for new file, and import it automatically.
 
 ### Technologies
@@ -62,10 +62,10 @@ a method to check for new file, and import it automatically.
 ### What I'll Have to Learn
 
 REST API (How to) I want to implement REST API for better understanding separation of control, and demonstrating 
-programming abilities.
-Server Side Controllers (API Provider) For a better understanding of how to handle server side processing, cycle of operations.
-Client Side Processing (API Consumer) For a better understanding of how to handle client side. Decoupling should give me chance to 
-add/remove features on client side, without affecting the data or server side of operations. Ideally, coding front ends
+programming abilities.<br>
+Server Side Controllers (API Provider): <br> For a better understanding of how to handle server side processing, cycle of operations.
+Client Side Processing (API Consumer): <br> For a better understanding of how to handle client side. Decoupling should give me chance to 
+add/remove features on client side, without affecting the data or server side of operations. <br>Ideally, coding front ends
 in different languages, using same API endpoints should be another good demonstration of abilities.
 
 
