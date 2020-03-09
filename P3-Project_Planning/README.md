@@ -10,9 +10,9 @@ For this assignment, you'll create some initial plans for your project.
 
 Include at least 3 wireframes here, adding images or files to your repository as necessary. Format them as a bulleted/unordered list with links to the files.
 <ul>
-    <li><a href=resources/HomePage.pdf>Home Page</a></li>
-    <li><a href=resources/DetailsPage.pdf>Details Page</a></li>
-    <li><a href=resources/InfoPage.pdf>Info Page</a></li>
+    <li><a href=https://github.com/dconford/liftoff-assignments/tree/master/resources/HomePage.pdf>Home Page</a></li>
+    <li><a href=https://github.com/dconford/liftoff-assignments/tree/master/resources/DetailsPage.pdf>Details Page</a></li>
+    <li><a href=https://github.com/dconford/liftoff-assignments/tree/master/resources/InfoPage.pdf>Info Page</a></li>
 </ul>
 ### Project Tracker
 
