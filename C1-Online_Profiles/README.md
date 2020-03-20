@@ -19,7 +19,7 @@ Here is a link to my LinkedIn account for further review.
 <a href=https://github.com/dconford/liftoff-assignments/tree/master/resources/DConford_Res2019_CST.pdf>My Old Resume</a>
 Here is a Link to my older Resume 
 <br>
-<a href=https://github.com/dconford/liftoff-assignments/tree/master/resources/LC RESUME_No Exp_No Degree_Dconford1.pdf>LaunchCode Style Resume</a>
+<a href=https://github.com/dconford/liftoff-assignments/tree/master/resources/LCresume_NoExp_NoDegree_Dconford1.pdf>LaunchCode Style Resume</a>
 Here is a Link to my LaunchCode Style Resume<br>
 
 You will need to upload a .PDF of your resume to this repo, or connect with your mentor on an alternate way of submitting your resume.
